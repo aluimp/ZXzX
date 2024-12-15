@@ -1,3 +1,3 @@
 #EXTM3U8 url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="OGÓLNE", TVN24 BIS 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:30:66:66&stream=17546&extension=ts
+https://cdn-nvm-chicago2.lolokoko.tv/TVN24BIS.stream/playlist.m3u8

@@ -399,3 +399,6 @@ http://185.236.229.62:9981/play/a02d
 http://185.236.229.62:9981/play/a051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Info",wPolsce.pl
 http://185.236.229.62:9981/play/a022
+#EXTM3U8 url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="OGÓLNE", TVN24 BIS 
+https://cdn-nvm-chicago2.lolokoko.tv/TVN24BIS.stream/playlist.m3u8

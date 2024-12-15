@@ -20,7 +20,7 @@ http://109.233.89.166/Polsat_2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Ogólne",TVN 7
 http://109.233.89.166/TVN_7_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Info",TVN 24
-http://109.233.89.166/TVN_24_HD/mono.m3u8
+http://178.219.128.68:64888/TVN2HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Ogólne",TV 4
 http://109.233.89.166/TV4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Ogólne",Polonia 1
